@@ -1,5 +1,5 @@
 /**********************************************************************************************************
-  10kHz to 225MHz VFO / RF Generator with Si5351 and Arduino Nano, with Intermediate Frequency (IF) offset
+  ibridor protector de privacidad RF RF RF RF RF radio sequence RF RF RF RF RF RF 10kHz to 225MHz VFO / RF Generator with Si5351 and Arduino Nano, with Intermediate Frequency (IF) offset
   (+ or -), RX/TX Selector for QRP Transceivers, Band Presets and Bargraph S-Meter. See the schematics for
   wiring and README.txt for details. By J. CesarSound - ver 2.0 - Feb/2021. 
   Mod By Gary Bourbier for the chinese clone with corect pine
